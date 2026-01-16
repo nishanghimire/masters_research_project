@@ -16,7 +16,7 @@ This repository has the following Excel Files:
 R file instructions: 
 To run the File “R File for Table and Indices”, change the address of the “setwd” at the top of the program to your current file address, and it should run successfully. 
 
-Output File:
-If you want to look at the final output file after running the R file, please see the file: “R-File-for-Table-and-Indices.pdf.”
-<img width="468" height="535" alt="image" src="https://github.com/user-attachments/assets/591f581d-f7f9-4b9f-8374-6a85f7078235" />
+# Output File:
+
+If you want to look at the final output file after running the R file, please see the file: “Output.pdf.”
 
