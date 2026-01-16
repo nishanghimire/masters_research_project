@@ -1,7 +1,7 @@
 # Coding Sample - Masters Research Project - Nishan Ghimire - Toronto Metropolitan University (TMU)
-This GitHub repo has the coding sample for my Master's Research Project titled "Estimating the Tax Progressivity for Canada and the US"
+This GitHub repository has the coding sample for my Master's Research Project titled "Estimating the Tax Progressivity for Canada and the US"
 
-This folder has the following Excel Files:
+This repository has the following Excel Files:
 
 1)	1992-2022 Canada Regression: The data and computations in this file are based on federal income tax for Canada from 1992 to 2022.
 2)	Fed and Prov 1992-2022 Canada: The data and computations in this file are based on federal and provincial income tax for Canada from 1992 to 2022.
