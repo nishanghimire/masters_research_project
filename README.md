@@ -4,7 +4,7 @@ This GitHub repository has the coding sample for my Master's Research Project ti
 This repository has the following Excel Files:
 
 1)  US Regression 1979-2021: The data and computations in this file are for the United States from 1979 to 2021 (data from Congressional Budget Office (CBO))
-2)	1992-2022 Canada Regression: The data and computations in this file are based on federal income tax for Canada from 1992 to 2022 (data from by Statistics Canada)
+2)	1992-2022 Canada Regression: The data and computations in this file are based on federal income tax for Canada from 1992 to 2022 (data from Statistics Canada)
 3)	Fed and Prov 1992-2022 Canada: The data and computations in this file are based on federal and provincial income tax for Canada from 1992 to 2022 (data from Statistics Canada)
 4)	Sample for Kakwani Index: The data in this file is to generate the Kakwani Index for the US and Canada (both using federal income tax and combining federal and provincial income taxes)
 5)	Sample for RS Index: The data in this file is to generate the Reynolds-Smolensky (RS) Index for the US and Canada (both using federal income tax and combining federal and provincial income taxes)
