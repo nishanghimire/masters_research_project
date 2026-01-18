@@ -14,7 +14,7 @@ This repository has the following Excel Files:
 9)	Canada Regression OECD results: The data and computations in this file are based on OECD data for Canada from 1992 to 2022. 
 
 R file instructions: 
-To run the File “R File for Table and Indices”, change the address of the “setwd” at the top of the program to your current file address, and it should run successfully. 
+To run the File “R File for Table and Indices”, please change the address of the “setwd” at the top of the program to your current file address, and it should run successfully. 
 
 # Output File:
 
