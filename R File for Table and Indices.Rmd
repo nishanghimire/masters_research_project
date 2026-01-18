@@ -93,7 +93,7 @@ stargazer(model2, model3,
 ```
 
 
-<!--This block below computes regression estimates for Canada from 1992-2022 using federal income taxes.-->
+<!--This block below computes regression estimates for Canada from 1992-2022 using federal income taxes -->
 
 
 ```{r, results='asis', echo=FALSE}
@@ -161,7 +161,7 @@ stargazer(model7,
           se = robust_se7)
 ```
 
-<!--This block computes regression estimates for Canada (federal & provincial income Taxes) from 1992-2006 and 2007-2022. -->
+<!--This block computes regression estimates for Canada (federal & provincial income Taxes) from 1992-2006 and 2007-2022 -->
 
 ```{r, results='asis', echo=FALSE}
 
