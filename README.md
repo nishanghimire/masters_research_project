@@ -1,5 +1,5 @@
 # Coding Sample - Master's Research Paper - Nishan Ghimire - Toronto Metropolitan University (TMU)
-This GitHub repository has the coding sample for my Master's Research Project titled "Estimating the Tax Progressivity for Canada and the US"
+This GitHub repository has the coding sample for my Master's Research Paper titled "Estimating the Tax Progressivity for Canada and the US"
 
 This repository has the following Excel Files:
 
